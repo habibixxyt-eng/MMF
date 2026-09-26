@@ -1,0 +1,6 @@
+{
+  "name": "MMF Formula",
+  "description": "Private offline workspace for document vault, PDF tools, scanner, calculator, calendar, task tracker, and alarms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
